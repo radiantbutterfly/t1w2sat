@@ -45,6 +45,10 @@ header h1 {
     background-color: #2b78e4;
 }
 
+main {
+    padding: 10px;
+}
+
 footer {
     padding-top: 10px;
     background-color: #ff9900;
@@ -70,4 +74,21 @@ footer {
 
 .contact-info p {
     margin: 2px;
+}
+
+.training-option {
+    margin-bottom: 20px;
+    padding-top: 10px;
+    background-color: #ff9900;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.training-option img {
+    width: 300px;
+}
+
+.training-option h3 {
+    color: #2b78e4;
 }

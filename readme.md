@@ -40,4 +40,7 @@ header {
     align-items: center;
 }
 ```
+## Wireframes
 
+!["Figma view"] (./images/figma.jpg)
+!["Browser view"] (./images/browser.jpg)
